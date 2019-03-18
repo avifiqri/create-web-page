@@ -1,0 +1,32 @@
+.conteints h5 {
+    margin-left: 35%;
+    padding: 2%;
+
+}
+.card {
+    border: 1px solid skyblue;
+    margin-left: 20%;
+    background: skyblue;
+    width: 200px;
+    text-align: center;
+    box-shadow: 5px 0 5px 5px;
+    border: 2px solid black;
+    
+}
+.card li{
+    list-style-type: none;
+}
+.card img {
+    border-radius: 50%;
+    width: 100px;
+    height: 80px;
+    text-align: center;
+}
+.conteints {
+    padding: 0%;
+    margin: 0%;
+    position: relative;
+    margin-top: 10%;
+    background: goldenrod;
+    
+}

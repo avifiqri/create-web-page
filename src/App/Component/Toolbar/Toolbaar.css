@@ -1,0 +1,24 @@
+.Toolbar {
+    background: goldenrod;
+    width: 100%;
+    box-shadow: 0 0 3px 1px;
+    box-sizing: border-box;
+    position: relative;
+}
+.Toolbar h3 {
+    color: skyblue;
+    margin-left: 30%;
+    margin-top: 10px;
+}
+.logo {
+    border-radius: 50%;
+    width: 50px;
+    height: 60px;
+    padding: 0%;
+    float: left;
+    box-shadow: 0 0 4px 1px;
+}
+.tools {
+    float: right;
+    height: 100%;
+}

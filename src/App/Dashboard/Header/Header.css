@@ -1,0 +1,15 @@
+.images {
+    width: 30%;
+    height: 200px;
+    box-shadow: 0 0 4px 1pt;
+    width: 800px;
+    height: 300px;
+    margin-left: 4%;
+}
+.headerterss{
+    float: right;
+    font-style: italic;
+    margin-top: 4%;
+    color: skyblue;
+    margin-right: 10%;
+}

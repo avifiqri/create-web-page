@@ -1,0 +1,12 @@
+.pendaftar form {
+    width: 80%;
+    margin-left: 30%;
+}
+.pendaftar {
+    background: skyblue;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    box-shadow: 0 8px 3px 1px;
+    box-sizing: border-box;
+
+}
