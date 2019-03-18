@@ -10,6 +10,7 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-fontawesome": "^1.6.1",
+    "react-router-dom": "^4.4.0",
     "react-scripts": "2.1.8",
     "reactstrap": "^7.1.0",
     "rnpm": "^1.9.0"
@@ -32,9 +33,3 @@
     "not op_mini all"
   ]
 }
-
-
-
-
-
-
